@@ -178,6 +178,14 @@ manifest就是文件后缀名为appchache或者manifest的文件
 
 了解clip-path、grid布局
 
+#### 1、css优化、提高性能
+
+参考：
+
+- 移除空的css规则
+
+> ##### CSS优化、提高性能的方法有哪些	
+
 ## JavaScript
 
 #### 一、什么是 JS？
